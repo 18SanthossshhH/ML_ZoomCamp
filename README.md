@@ -1,2 +1,4 @@
-# ML_ZoomCamp-
-It Contains Homework given in  ML Zoom Camp by  Alexey Grigorev
+# ML_ZoomCamp
+The original course contents can be found in this repo, courtesy of Alexey Grigorev.
+
+Go check out DataTalks!
