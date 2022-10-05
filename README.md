@@ -1,11 +1,6 @@
 # Machine Learning Zoomcamp
 
-<img src="../images/zoomcamp.jpg" />
 
-
-<p align="center">
-  <a href="https://airtable.com/shryxwLd0COOEaqXo"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
-</p>
 
 * [Course telegram channel](https://t.me/mlzoomcamp)
 * [Course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR)
@@ -250,17 +245,4 @@ Writing an article about something not covered in the course.
 For those who love projects!
 
 
-<p align="center">
-  <a href="https://www.bentoml.com/">
-    <img height="100" src="../images/bentoml.png">
-  </a>
-</p>
-
-Thanks to our friends for spreading the word about the course
-
-<p align="center">
-  <a href="https://dphi.tech/">
-    <img height="75" src="https://datatalks.club/images/partners/dphi.png">
-  </a>
-</p>
 
