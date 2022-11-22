@@ -9,7 +9,7 @@
 
 ### Syllabus 
 
-- [Introduction to Machine Learning](#1-introduction-to-machine-learning)
+- [Introduction to Machine Learning]
 - [Machine Learning for Regression](#2-machine-learning-for-regression)
 - [Machine Learning for Classification](#3-machine-learning-for-classification)
 - [Evaluation Metrics for Classification](#4-evaluation-metrics-for-classification)
